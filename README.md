@@ -9,3 +9,4 @@ Create a website of your own
 ## Resources
 
 [HTML5 UP](https://html5up.net/)
+[Font Awesome](https://fontawesome.com/)
